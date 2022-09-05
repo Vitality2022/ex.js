@@ -6,4 +6,5 @@
 
 let a = 6;
 let b = 4;
-console.log(Math.pow(a,2),""(b,2))
+console.log(Math.pow(a,2),Math.pow(b,2));
+console.log(Math.pow(a,2) + Math.pow(b,2));
