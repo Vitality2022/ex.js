@@ -6,3 +6,5 @@
 let a = parseFloat (prompt('number'));
 alert(a-9);
 alert(a+7);
+
+// done

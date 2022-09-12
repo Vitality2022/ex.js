@@ -5,11 +5,13 @@
 // экран возраст ученика (в целых годах).
 
 
-//  let age = prompt('Сколько тебе лет?', 100);
-//   alert(`Тебе ${age} лет!`); 
 
-let a = 2022;
-let b = (`Ваш рік народження ? ${age}`);
 
+let yearNow = prompt('Який зараз рік ?',2022) ;
+let yearOfBirth = prompt('Рік вашого народженя ?');
+
+console.log(yearNow -  yearOfBirth);
+
+//done
 
 

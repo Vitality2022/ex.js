@@ -6,3 +6,5 @@
 let h = 5;
 console.log(h, 'цифра');
 console.log(Math.pow(h, 2),'та сама цифра тільки в квадраті' );
+
+// done
